@@ -1,12 +1,12 @@
 # Data Science Internship Task 2
 <br>
-<img src=""   >
+<img src="https://github.com/jaypatel164/PRODIGY_DS_02/blob/main/ds2.png"   >
 
 ## Introduction
 This repository contains the code and analysis for Task 2 of my Data Science internship at Prodigy Info Tech. For this task, I performed data cleaning and exploratory data analysis (EDA) on a dataset of my choice. I chose the Titanic dataset from Kaggle for this analysis.
 
 ## Dataset
-The <a href = "">`Titanic dataset`</a> is a well-known dataset in the field of data science and contains information about passengers aboard the Titanic, including their demographics and survival status. This dataset is widely used for educational purposes and provides an opportunity to explore various data analysis techniques.
+The <a href = "https://github.com/jaypatel164/PRODIGY_DS_02/blob/main/Titanic-Dataset.csv">`Titanic dataset`</a> is a well-known dataset in the field of data science and contains information about passengers aboard the Titanic, including their demographics and survival status. This dataset is widely used for educational purposes and provides an opportunity to explore various data analysis techniques.
 
 ## Task Description
 The main objective of this task was to perform data cleaning and exploratory data analysis to gain insights into the Titanic dataset. This involved handling missing values and exploring relationships between variables to identify patterns and trends in the data.
